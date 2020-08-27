@@ -1,1 +1,1 @@
-DELETE http://localhost:3001/api/persons/4
+DELETE https://fathomless-bastion-74906.herokuapp.com/api/persons/4
